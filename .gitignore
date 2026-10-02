@@ -8,7 +8,6 @@ UnrealZoo_*.zip
 # logs & scratch
 *.log
 camera_path.json
-contact_*.png
 void_candidates.png
 # python
 __pycache__/
