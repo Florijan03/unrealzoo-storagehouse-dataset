@@ -1,0 +1,19 @@
+# datasets / outputs (too large for git — use a Release or external storage)
+dataset/
+dataset_*/
+*.zip
+# UnrealZoo binary package
+UnrealZoo_*/
+UnrealZoo_*.zip
+# logs & scratch
+*.log
+camera_path.json
+contact_*.png
+void_candidates.png
+# python
+__pycache__/
+*.pyc
+.venv/
+# OS
+.DS_Store
+Thumbs.db

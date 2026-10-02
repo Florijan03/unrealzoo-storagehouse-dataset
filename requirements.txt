@@ -1,0 +1,5 @@
+# Python deps for the dataset scripts (rendering needs the UnrealZoo binary separately).
+unrealcv
+pillow
+numpy
+pygame
